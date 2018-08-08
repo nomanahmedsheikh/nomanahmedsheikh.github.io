@@ -1,4 +1,4 @@
-## What I do
+### What I do
 #### Data Scientist at [Sprinklr](https://www.sprinklr.com/)
 - April, 2018 to Present
 
@@ -8,17 +8,18 @@
 #### Research Intern at [Adobe](https://www.adobe.com/)
 - May, 2016 to July, 2016
 
-## Working on
+### Working on
 
-## Worked on
+### Worked on
 
-## Undergraduate Thesis
+### Undergraduate Thesis
 
-## Publications
+### Publications
+1. **Lifted Marginal MAP Inference** [PDF](1807.00589.pdf) <br>Vishal Sharma, Noman Ahmed Sheikh, Happy Mittal, Vibhav Gogate and Parag Singla.<br> _Conference on Uncertainty in Artificial Intelligence (UAI), 2018. Monterey, California, USA_ 
 
-## About me
+### About me
 
-## Contact
+### Contact
 
 ### Markdown
 
