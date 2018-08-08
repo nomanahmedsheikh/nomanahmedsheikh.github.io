@@ -16,11 +16,12 @@
 
 ### Publications
 1. **Lifted Marginal MAP Inference** [PDF](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/publications/1807.00589.pdf) <br>
-Vishal Sharma, Noman Ahmed Sheikh, Happy Mittal, Vibhav Gogate and Parag Singla<br> 
-_Conference on Uncertainty in Artificial Intelligence (UAI), Aug 2018. Monterey, California, USA_ 
+<sub>Vishal Sharma, Noman Ahmed Sheikh, Happy Mittal, Vibhav Gogate, Parag Singla<br> 
+_Conference on Uncertainty in Artificial Intelligence (UAI), Aug 2018. Monterey, California, USA_ </sub>
 2. **Usage Based Tag Enhancement of Images** [PDF](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/publications/UsageBasedTagEnhancement.pdf) <br>
-Balaji Vasan Srinivasan, Noman Ahmed Sheikh, Roshan Kumar, Saurabh Verma, Niloy Ganguly <br>
-_21st Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), May 2017. Jeju, South Korea_
+<sub>Balaji Vasan Srinivasan, Noman Ahmed Sheikh, Roshan Kumar, Saurabh Verma, Niloy Ganguly<br>
+_21st Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), May 2017. Jeju, South Korea_</sub>
+
 ### About me
 
 ### Contact
