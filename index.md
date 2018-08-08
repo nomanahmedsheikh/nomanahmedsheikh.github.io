@@ -8,49 +8,29 @@
 #### Research Intern at [Adobe](https://www.adobe.com/)
 - May, 2016 to July, 2016
 
-### Working on
-
-### Worked on
+### On going Works
 
 ### Undergraduate Thesis
 
+### Writings
+1. **Undergraduate IIT Delhi Notes** [Link](https://1drv.ms/f/s!AkM7et4ysfYFb-LdFN_Gs0IfVKI) <br>
+<sup>for the times when I feel nostalgic</sup>
+2. **Tips on Java** [Link](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/writings/Tips_on_Java.pdf) <br>
+<sup>bootstraping my development experience at Sprinklr</sup>
+3. **The Markov Logic Collection** [Link](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/mln.md) <br>
+<sup>because finding resources was a pain</sup>
+4. **Design Pattern In Java** [Link](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/writings/Design_Patterns.pdf) <br>
+<sup>a presentation given in Sprinklr</sup>
+
 ### Publications
 1. **Lifted Marginal MAP Inference** [PDF](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/publications/1807.00589.pdf) <br>
-<sub>Vishal Sharma, Noman Ahmed Sheikh, Happy Mittal, Vibhav Gogate, Parag Singla<br> 
-_Conference on Uncertainty in Artificial Intelligence (UAI), Aug 2018. Monterey, California, USA_ </sub>
+<sup>Vishal Sharma, Noman Ahmed Sheikh, Happy Mittal, Vibhav Gogate, Parag Singla<br> 
+_Conference on Uncertainty in Artificial Intelligence (UAI), Aug 2018. Monterey, California, USA_ </sup>
 2. **Usage Based Tag Enhancement of Images** [PDF](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/publications/UsageBasedTagEnhancement.pdf) <br>
-<sub>Balaji Vasan Srinivasan, Noman Ahmed Sheikh, Roshan Kumar, Saurabh Verma, Niloy Ganguly<br>
-_21st Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), May 2017. Jeju, South Korea_</sub>
+<sup>Balaji Vasan Srinivasan, Noman Ahmed Sheikh, Roshan Kumar, Saurabh Verma, Niloy Ganguly<br>
+_21st Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), May 2017. Jeju, South Korea_</sup>
 
 ### About me
 
 ### Contact
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+Email: nomanahmedsheikh[at]outlook.com
