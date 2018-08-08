@@ -41,7 +41,7 @@ _21st Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), Ma
 ### About me
 
 ### Contact
-Email: nomanahmedsheikh[at]outlook.com
-Facebook: https://www.facebook.com/noman.sheikh.7568
-Github: https://github.com/nomanahmedsheikh
-LinkedIn: https://www.linkedin.com/in/noman-sheikh-aa797ab6/
+Email: nomanahmedsheikh[at]outlook.com <br>
+Facebook: https://www.facebook.com/noman.sheikh.7568 <br>
+Github: https://github.com/nomanahmedsheikh <br>
+LinkedIn: https://www.linkedin.com/in/noman-sheikh-aa797ab6/ <br>
