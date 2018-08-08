@@ -1,5 +1,14 @@
 ## What I do
-Data Scientist at Sprinklr
+#### Data Scientist at <a href="https://www.sprinklr.com/">Sprinklr</a>
+- April, 2018 to Present
+
+#### Product Engineer at <a href="https://www.sprinklr.com/">Sprinklr</a>
+- July, 2017 to April, 2018
+
+#### Research Intern at <a href="https://www.adobe.com/">Adobe</a> 
+- May, 2016 to July, 2016
+
+
 
 
 ## Welcome to GitHub Pages
