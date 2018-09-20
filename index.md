@@ -1,21 +1,25 @@
 ### What I do
-1. **Data Scientist at [Sprinklr](https://www.sprinklr.com/)**<br>
+**Data Scientist at [Sprinklr](https://www.sprinklr.com/)**<br>
 <sup>_(Apr 2018 - Present)_</sup><br>
 Machine Learning Team
 
-2. **Product Engineer at [Sprinklr](https://www.sprinklr.com/)**<br>
+### In Progess
+
+- [Machine Learning Algorithms](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/algo/algo.md)
+
+### Past
+
+1. **Product Engineer at [Sprinklr](https://www.sprinklr.com/)**<br>
 <sup>_(Jul 2017 to Apr 2018)_</sup><br>
 Core Team
 
-3. **Research Intern at [Adobe](https://www.adobe.com/)**<br>
+2. **Research Intern at [Adobe](https://www.adobe.com/)**<br>
 <sup>_(May 2016 to Jul 2016)_</sup><br>
 Usage Based Tag Enhancement of Images
 
-4. **Bachelor of Technology, [IIT Delhi](http://www.iitd.ac.in/)**<br>
+3. **Bachelor of Technology, [IIT Delhi](http://www.iitd.ac.in/)**<br>
 <sup>_(Jul 2013 - May 2017)_</sup><br>
 Department of Computer Science and Engineering, 9.0
-
-### On going Works
 
 ### Undergraduate Thesis
 
