@@ -7,23 +7,6 @@ Machine Learning Team
 
 - [Machine Learning Algorithms](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/algo/algo.md)
 
-### Past
-
-1. **Product Engineer at [Sprinklr](https://www.sprinklr.com/)**<br>
-<sup>_(Jul 2017 to Apr 2018)_</sup><br>
-Core Team
-
-2. **Research Intern at [Adobe](https://www.adobe.com/)**<br>
-<sup>_(May 2016 to Jul 2016)_</sup><br>
-Usage Based Tag Enhancement of Images
-
-3. **Bachelor of Technology, [IIT Delhi](http://www.iitd.ac.in/)**<br>
-<sup>_(Jul 2013 - May 2017)_</sup><br>
-Department of Computer Science and Engineering, 9.0
-
-### Undergraduate Thesis
-
-
 ### Writings
 1. **Undergraduate IIT Delhi Notes** [Link](https://1drv.ms/f/s!AkM7et4ysfYFb-LdFN_Gs0IfVKI) <br>
 <sup>for the times when I feel nostalgic</sup>
@@ -41,6 +24,23 @@ _Conference on Uncertainty in Artificial Intelligence (UAI), Aug 2018. Monterey,
 2. **Usage Based Tag Enhancement of Images** [PDF](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/publications/UsageBasedTagEnhancement.pdf) <br>
 <sup>Balaji Vasan Srinivasan, Noman Ahmed Sheikh, Roshan Kumar, Saurabh Verma, Niloy Ganguly<br>
 _21st Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), May 2017. Jeju, South Korea_</sup>
+
+### Undergraduate Thesis
+Learning and Inference in Markov Logic Networks
+
+### Past
+
+1. **Product Engineer at [Sprinklr](https://www.sprinklr.com/)**<br>
+<sup>_(Jul 2017 to Apr 2018)_</sup><br>
+Core Team
+
+2. **Research Intern at [Adobe](https://www.adobe.com/)**<br>
+<sup>_(May 2016 to Jul 2016)_</sup><br>
+Usage Based Tag Enhancement of Images
+
+3. **Bachelor of Technology, [IIT Delhi](http://www.iitd.ac.in/)**<br>
+<sup>_(Jul 2013 - May 2017)_</sup><br>
+Department of Computer Science and Engineering, 9.0
 
 ### About me
 
