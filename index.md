@@ -43,6 +43,9 @@ Usage Based Tag Enhancement of Images
 Department of Computer Science and Engineering, 9.0
 
 ### About me
+Believer of the principle: _"you must not fool yourself and you are the easiest person to fool."_
+
+As Feynman said: _"For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled"_
 
 ### Contact
 Email: nomanahmedsheikh[at]outlook.com <br>
