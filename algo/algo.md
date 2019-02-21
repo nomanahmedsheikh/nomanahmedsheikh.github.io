@@ -6,3 +6,4 @@ May Patience and Persistence drive this page :metal:
 - [YOLO](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/algo/yolo.md)
 - [Capsules]() `In Progess`
 - [Forecasting]() `In Progress`
+- [AutoML](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/algo/automl.md)
