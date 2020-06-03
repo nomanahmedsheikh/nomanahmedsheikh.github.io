@@ -1,11 +1,7 @@
 ### What I do
-**Data Scientist at [Sprinklr](https://www.sprinklr.com/)**<br>
-<sup>_(Apr 2018 - Present)_</sup><br>
-Machine Learning Team
-
-### In Progess
-
-- [Machine Learning Algorithms](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/algo/algo.md)
+**Graduate Student at [ETH Zurich](https://ethz.ch/en.html)**<br>
+<sup>_(September 2019 - Present)_</sup><br>
+Department of Computer Science, GPA<sup>_(currently)_</sup>: 5.7/6.0
 
 ### Writings
 1. **Undergraduate IIT Delhi Notes** [Link](https://1drv.ms/f/s!AkM7et4ysfYFb-LdFN_Gs0IfVKI) <br>
@@ -18,19 +14,29 @@ Machine Learning Team
 <sup>a presentation given in Sprinklr</sup>
 
 ### Publications
-1. **Lifted Marginal MAP Inference** [PDF](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/publications/1807.00589.pdf) <br>
+2. **Lifted Marginal MAP Inference** [PDF](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/publications/1807.00589.pdf) <br>
 <sup>Vishal Sharma, Noman Ahmed Sheikh, Happy Mittal, Vibhav Gogate, Parag Singla<br> 
 _34th Conference on Uncertainty in Artificial Intelligence (UAI), Aug 2018. Monterey, California, USA_ </sup>
-2. **Usage Based Tag Enhancement of Images** [PDF](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/publications/UsageBasedTagEnhancement.pdf) <br>
+1. **Usage Based Tag Enhancement of Images** [PDF](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/publications/UsageBasedTagEnhancement.pdf) <br>
 <sup>Balaji Vasan Srinivasan, Noman Ahmed Sheikh, Roshan Kumar, Saurabh Verma, Niloy Ganguly<br>
 _21st Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), May 2017. Jeju, South Korea_</sup>
 
+### In Progess
+- [Machine Learning Algorithms](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/algo/algo.md)
+
 ### Undergraduate Thesis
-Learning and Inference in Markov Logic Networks
+Learning and Inference in Markov Logic Networks [PDF](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/publications/1807.00589.pdf)
 
-### Past
+### Experience
+5. **Lead Data Scientist at [Sprinklr](https://www.sprinklr.com/)**<br>
+<sup>_(Apr 2019 to August 2019)_</sup><br>
+Machine Learning Team
 
-1. **Product Engineer at [Sprinklr](https://www.sprinklr.com/)**<br>
+4. **Data Scientist at [Sprinklr](https://www.sprinklr.com/)**<br>
+<sup>_(Apr 2018 to Mar 2019)_</sup><br>
+Machine Learning Team
+
+3. **Product Engineer at [Sprinklr](https://www.sprinklr.com/)**<br>
 <sup>_(Jul 2017 to Apr 2018)_</sup><br>
 Core Team
 
@@ -38,14 +44,12 @@ Core Team
 <sup>_(May 2016 to Jul 2016)_</sup><br>
 Usage Based Tag Enhancement of Images
 
-3. **Bachelor of Technology, [IIT Delhi](http://www.iitd.ac.in/)**<br>
+1. **Bachelor of Technology, [IIT Delhi](http://www.iitd.ac.in/)**<br>
 <sup>_(Jul 2013 - May 2017)_</sup><br>
-Department of Computer Science and Engineering, 9.0
+Department of Computer Science and Engineering, GPA: 9.0/10.0
 
 ### About me
 Believer of the principle: _"you must not fool yourself and you are the easiest person to fool."_
-
-As Feynman said: _"For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled"_
 
 ### Contact
 Email: nomanahmedsheikh[at]outlook.com <br>
