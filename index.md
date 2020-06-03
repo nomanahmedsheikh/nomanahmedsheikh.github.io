@@ -1,7 +1,7 @@
 ### What I do
 **Graduate Student at [ETH Zurich](https://ethz.ch/en.html)**<br>
 <sup>_(September 2019 - Present)_</sup><br>
-Department of Computer Science, GPA<sup>_(currently)_</sup>: 5.7/6.0
+Department of Computer Science, GPA<sub>_(currently)_</sub>: 5.7/6.0
 
 ### Writings
 1. **Undergraduate IIT Delhi Notes** [Link](https://1drv.ms/f/s!AkM7et4ysfYFb-LdFN_Gs0IfVKI) <br>
