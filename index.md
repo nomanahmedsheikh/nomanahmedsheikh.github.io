@@ -48,6 +48,9 @@ Usage Based Tag Enhancement of Images
 <sup>_(Jul 2013 - May 2017)_</sup><br>
 Department of Computer Science and Engineering, GPA: 9.0/10.0
 
+### Resume
+[Click Here](https://github.com/nomanahmedsheikh/nomanahmedsheikh.github.io/blob/master/resume.pdf)
+
 ### About me
 Believer of the principle: _"you must not fool yourself and you are the easiest person to fool."_
 
